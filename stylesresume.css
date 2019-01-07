@@ -3,7 +3,7 @@ body {
 }
 
 .profile-image {
-  border: solid 5px blue;
-  border-radius: 50%;
+  border: solid 5px black;
+  border-radius: 5px;
   border-style: ridge;
 }
