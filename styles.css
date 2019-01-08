@@ -104,6 +104,24 @@ header .profile-image:hover {
   border-color: #2FE7EB;
 }
 
+.card-title {
+  border:solid black 3px;
+  border-radius:5px;
+  text-align: center;
+  color:purple
+}
+
+.hobby-card {
+  margin:center 30px
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: center;
+  background: #DEE3E3;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
@@ -147,7 +165,7 @@ footer ul li {
 a.social {
   display: inline-block;
   text-indent: -9999px;
-  margin-left: 5px;
+  margin-right:5px;
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
@@ -205,12 +223,5 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
-.card-title {
-  border:solid black 3px;
-  border-radius:5px;
-  text-align: center;
-  color:purple
-}
 
 }
