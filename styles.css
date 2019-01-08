@@ -112,14 +112,40 @@ header .profile-image:hover {
 }
 
 .hobby-card {
-  margin:center 30px
+  margin:30px
   padding: 20px 40px 40px;
   max-width: 500px;
-  text-align: center;
+  text-align: left;
   background: #DEE3E3;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+}
+
+.hobby-card:hover {
+  border-color: #2FE7EB;
+}
+
+.hobby {
+  text-align:center;
+  color:purple;
+}
+
+.hobby-list {
+  margin: auto 3px;
+  font-size: 18px;
+  text-align: center;
+  padding:inherit;
+  margin: auto;
+}
+
+ul.hobby-list {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.hobby-list li {
+  display: flex;
 }
 
 ul.skills {
@@ -172,9 +198,7 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
+
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
