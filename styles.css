@@ -134,9 +134,6 @@ header .profile-image:hover {
 .hobby-list {
   margin: auto 3px;
   font-size: 18px;
-  text-align: center;
-  padding:inherit;
-  margin: auto;
 }
 
 ul.hobby-list {
@@ -145,8 +142,9 @@ ul.hobby-list {
 }
 
 .hobby-list li {
-  display: flex;
+  color: black;
 }
+
 
 ul.skills {
   padding: 0;
