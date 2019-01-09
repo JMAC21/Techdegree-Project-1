@@ -1,0 +1,7 @@
+.picture {
+  border: solid 5px black;
+  border-radius: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
