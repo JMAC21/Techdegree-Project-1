@@ -164,6 +164,11 @@ ul.skills {
   background: #0399ff;
 }
 
+.email{
+  font-size: 12px;
+  color: #1540BF;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
