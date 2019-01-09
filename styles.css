@@ -168,6 +168,10 @@ ul.skills {
   color: white;
 }
 
+.contact {
+  color: gray
+}
+
 .email {
   font-size: 12px;
   color: #1540BF;
@@ -180,9 +184,9 @@ footer {
 }
 
 footer .copyright {
-  top: -8px;
+  top: -5px;
   font-size: .75em;
-  color:#C0EBE8;
+  color: gray;
 }
 
 footer ul {

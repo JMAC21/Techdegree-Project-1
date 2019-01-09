@@ -14,6 +14,7 @@ body {
 
 .body {
   margin-left: 50px;
+  margin-right: 50px;
 }
 
 .main-nav {
@@ -61,4 +62,12 @@ body {
 
 .dmu-school-link a:hover {
   color: purple;
+}
+
+.back-top {
+  text-align: center;
+}
+
+.copyright {
+  text-align: center;
 }
