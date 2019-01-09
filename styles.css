@@ -114,8 +114,8 @@ header .profile-image:hover {
 .hobby-card {
   margin:30px
   padding: 20px 40px 40px;
-  max-width: 500px;
-  text-align: left;
+  max-width: 300px;
+  text-align: center;
   background: #DEE3E3;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
