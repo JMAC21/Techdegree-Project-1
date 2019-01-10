@@ -164,6 +164,11 @@ ul.skills {
   background: #0399ff;
 }
 
+.guitar-image {
+  border: solid black 5px;
+  border-radius: 25%;
+}
+
 .blockquote {
   color: white;
 }
