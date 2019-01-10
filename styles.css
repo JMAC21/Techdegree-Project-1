@@ -112,10 +112,11 @@ header .profile-image:hover {
 }
 
 .hobby-card {
-  margin:30px
+  margin:30px;
   padding: 20px 40px 40px;
   max-width: 300px;
   text-align: center;
+  margin: auto;
   background: #DEE3E3;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
@@ -134,15 +135,17 @@ header .profile-image:hover {
 .hobby-list {
   margin: auto 3px;
   font-size: 18px;
+  list-style-type: none;
 }
 
 ul.hobby-list {
   text-align: center;
-  list-style-position: inside;
+  list-style-position:inside;
 }
 
 .hobby-list li {
   color: black;
+  display: block;
 }
 
 
